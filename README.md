@@ -18,7 +18,7 @@ python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
-Python version used: <fill in>. `requirements.txt` pins the exact versions of
+Python version used: 3.11. `requirements.txt` pins the exact versions of
 torch, ultralytics, opencv-python and pynvml used in the experiment.
 
 ## Data
